@@ -1,0 +1,83 @@
+/* Global Styles */
+
+body {
+    font-family: sans-serif;
+    background-color: #fbfaca;
+
+}
+
+
+/*nav bar*/
+
+nav a {
+    color: white;
+    font-size: 20px;
+}
+
+.active {
+    color: #aa593b;
+}
+
+nav a:hover {
+    color: #aa593b;
+}
+
+.banner {
+    min-height: 150px;
+    min-width: 150px;
+    background: url("/img/Background.png") no-repeat 0 -400px;
+    margin: auto;
+    width: 75%;
+
+}
+
+ .textsection {
+    background-color: white;
+    color: black;
+    padding: 45px 65px;
+    margin: auto;
+}
+
+.facebook {
+    color: #3b5998;
+}
+
+
+.myname {
+    text-decoration: none;
+    text-decoration-style: none;
+    color: black;
+    font-size: 12px;
+}
+.copyright {
+    padding-top: 15px;
+}
+
+/* Media Queries */
+/* Small devices (tablets, 768px and up) */
+
+
+@media (min-width: 768px) {
+}
+.navbar.navbar-default .navbar-nav {
+    width: 100%;
+    text-align: center;
+  }
+  .navbar.navbar-default .navbar-nav > li {
+    display: inline-block;
+    float: none
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width:  992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+
+
