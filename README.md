@@ -14,4 +14,4 @@ For this website, I knew that I wanted a simple design that was focused on scree
 I felt that Bootstrap 4 would be the best tool to utilize to do what I want to accomplish. I haven’t made too many projects with Bootstrap because I really enjoy using vanilla CSS3, so it was nice to get a bit more involved with using this framework. 
 
 
-This is pure HTML and CSS; no JavaScript, jQuery, or back-end languages of any kind. I also utilized Photoshop to create the banner and to mock-up a design for approval and as a reference.
+HTML5, CSS3, Bootstrap 4, and a snippet of jQuery are the only tools that I used for this project. I also utilized Photoshop to create the banner and to mock-up a design for approval and as a reference.
